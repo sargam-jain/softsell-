@@ -10,6 +10,10 @@ A modern, responsive one-page website for a fictional software resale startup **
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/e2cd0903-77e7-4666-8195-d2bbca60235d)
+
+
 ## 📦 Tech Stack
 
 - ⚛️ **React** with Vite
